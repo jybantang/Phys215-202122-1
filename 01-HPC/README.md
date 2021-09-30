@@ -1,7 +1,7 @@
 # Session 1: HPC and the Julia Framework
 [Previous](00-Intro/README.md) | [Main](README.md) | Next
 
-**OBJECTIVE**: Confirm Julia framework and Base speed
+# **OBJECTIVE**: Confirm Julia framework and Base speed
 - [ ] KR1: Use `@code_*` to examine a simple function. The `*` is replaceable by `native`, `typed`, `warntype`, and others. Discover them.
 - [ ] KR2: Demonstrate that Julia is able to determine constants in codes.
 - [ ] KR3: Demonstrate Julia's type-inference and multiple dispatch.
