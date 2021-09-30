@@ -23,7 +23,7 @@ computer langueges for numerical solutions and algebraic manipulations.
 - Class schedule: TTh 5:30-7pm (PST)
 
 ## Necessities:
-1. Computer (laptop or desktop) with Internet access1
+1. Computer (laptop or desktop) with Internet access<sup>[1](#gpu-note)</sup>
 2. Patience and enthusiasm
 3. Browser bookmarks of the following sites:
 	1. [The Julia documentation page](https://docs.julialang.org)
@@ -33,3 +33,12 @@ computer langueges for numerical solutions and algebraic manipulations.
 	3. Ben Lauwens and Allen Downey. [Think Julia: How to think like a computer scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html). This is a good basic reference for Applied Physics 155 level of introduction for Julia.
 	4. Stephen Boyd and Lieven Vandenberghe. [Introduction to Applied Linear Algebra, VLMS](http://vmls-book.stanford.edu)
 	5. Other resources may appear in the Google Classroom, and in the Discord server.
+
+<a name="gpu-note">1</a>: The computer must have at least more than two cores. Having GPU cores is desirable but not required. The Internet access is necessary for downloading and installing related apps and codes Julia and GitHub.
+
+## Course Goals
+At the end of the semester, the student will be able to:
+- [G1] Identify basic principles in high-performance computation especially those accessible via Julia as a programming language;
+- [G2] Solve at least one ODE-based problem using numerical approach in Julia, showing the
+solutions in graphical plots;
+- [G3] 
