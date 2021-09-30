@@ -26,11 +26,11 @@ computer langueges for numerical solutions and algebraic manipulations.
 1. Computer (laptop or desktop) with Internet access1
 2. Patience and enthusiasm
 3. Browser bookmarks of the following sites:
-	a. Julia documentation page: https://docs.julialang.org
-	b. Julia packages shortcut repository: https://juliapackages.com
+	1. Julia documentation page: https://docs.julialang.org
+	2. Julia packages shortcut repository: https://juliapackages.com
 4. Access to book references such as follows
-	a. [MAIN] Avik Sengupta. Julia High Performance, 2nd Ed. (Packt Publishing, 2019). Available from Packt and Amazon (as Kindle book).
-	b. Think Julia: How to think like a computer scientist (https://benlauwens.github.io/ThinkJulia.jl/latest/book.html). This is a good basic reference for Applied Physics 155 level of introduction for Julia.
-	c. Introduction to Applied Linear Algebra, VLMS: ( http://vmls-book.stanford.edu)
-	d. Other resources may appear in the Google Classroom, and in the Discord server.
+	1. [MAIN] Avik Sengupta. Julia High Performance, 2nd Ed. (Packt Publishing, 2019). Available from Packt and Amazon (as Kindle book).
+	2. Think Julia: How to think like a computer scientist (https://benlauwens.github.io/ThinkJulia.jl/latest/book.html). This is a good basic reference for Applied Physics 155 level of introduction for Julia.
+	1. Introduction to Applied Linear Algebra, VLMS: ( http://vmls-book.stanford.edu)
+	2. Other resources may appear in the Google Classroom, and in the Discord server.
 
