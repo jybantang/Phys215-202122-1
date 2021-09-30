@@ -8,3 +8,14 @@
 - [ ] KR4: Replicate plotting the Mandelbrot. Use a separate file `Mandelbrot.jl` to contain the function code. Use `include()` function to load the file.
 - [ ] KR5: Plot of the time it takes for the function to run using `@time` macro for the given grid size `n`.
 - [ ] KR6: Disuss the computational complexity of the Madelbrot function you made based onKR5. What is the best `@time` output to use for this?
+
+Most of these KRs can be explored using the links in Julia.
+
+# Julia macros
+
+The `@code_*` macros (replace `*` with `llvm`,`native`, `typed`, `warntype`, _etc._ ) can be use to peek into the lower-level encoding of a function or code snippet.
+The code or function must be ready to be executed in the REPL, not for definition.
+The `@code_*` documentation starts [here](https://docs.julialang.org/en/v1/stdlib/InteractiveUtils/#InteractiveUtils.@code_lowered).
+
+The `@time` macro can be used as a rudimentary measure of performance.
+The documentation is found [here](https://docs.julialang.org/en/v1/manual/performance-tips/#Measure-performance-with-[@time](@ref)-and-pay-attention-to-memory-allocation).
