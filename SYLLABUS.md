@@ -49,7 +49,19 @@ Students are expected to submit the following requirements with their correspond
 	1. **Mini-projects** (Pm≥1 project, individual up to trio): 20%. _Must demonstrate at least one(1) of the Course Goals._
 	2. **Final Project** (Pf=1 project, individual up to trio): 20%. _Must demonstrate at least two(2) of the Course Goals._
 
+## Class Policy
+_Class attendance._ Class attendance is not required but the completed Exercises and Project must be submitted before the deadline set. Late submissions may still be accepted but have final scores reduced by a factor of the remaining days before the Grade Submission deadline.
+All class sessions and class consultations will be done via available online platforms such as Zoom, Google Meet, or Discord.
+Submissions must be done via the Google Classrooms. Submissions via other means may tend to be lost in transmission and deemed unreliable.
 
+_Exercises._ Each topic will require submission of exercise(s) which will individually contribute to the total score under the category of Exercises. Exercise solutions will be submitted online.
+
+_Mini-project(s)._ At least one mini-project will be required towards the mid-semester from which the Final project may be based from. At least one of the Course Goals (one of G1 through G4] must be demonstrated as achieved in mini-projects.
+
+_Final project._ Only one(1) final project more complex than the mini-projects will be required to be submitted by the end of the semester. Given the practicality of the circumstances, either a live oral or recorded video presentation of the results may be required (submitted). At least two(2) of the Course Goals (one of G1 through G4] must be demonstrated as achieved in the final-project.
+
+## Submission modes
+Submission modes are described in the [Main Page](README.md).
 
 ## Notes
 <a name="gpu-note">[1]</a> The computer must have at least more than two cores. Having GPU cores is desirable but not required. The Internet access is necessary for downloading and installing related apps and codes Julia and GitHub.
