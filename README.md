@@ -19,12 +19,12 @@ Check it [here](SYLLABUS.md).
 The sequence of topics will generally follow the MAIN book reference following each chapter. Discussions will be live synchronous activity every Thursdays to discuss the chapter and computational physics topics. I expect everyone to use the Tuesday schedule in finishing the allocated homework sessions posted in the Google Classroom. This list may change as determined by the instructor. Each number will generally be allocated for the week number of the semester.
 
 ## Session 0
-[Installation and exploration of the Julia language](00-Intro/README.md)
+[**Installation and exploration of the Julia language**](00-Intro/README.md)
 
 **OBJECTIVE**: Successfully Explore Julia
 
 ## Session 1
-[HPC and the Julia Framework](01-HPC/README.md)
+[**HPC and the Julia Framework**](01-HPC/README.md)
 
 **OBJECTIVE**: Confirm Julia framework and Base speed
 
