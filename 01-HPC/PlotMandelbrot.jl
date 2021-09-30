@@ -6,7 +6,7 @@ Plots the results of `mandelbrot()` function using the `heatmap()` function.
 
 **Special case**
 ```
-plotMandelbrot( vrange::Tuple{Float64,Float64}; n=100 ) = plotMandel( vrange, vrange; n )
+plotMandelbrot( vrange::Tuple{Float64,Float64}; n=100 ) = plotMandelbrot( vrange, vrange; n )
 ```
 """
 function plotMandelbrot( xrange::Tuple{Float64,Float64}, yrange::Tuple{Float64,Float64}; n=100 )
@@ -14,7 +14,7 @@ function plotMandelbrot( xrange::Tuple{Float64,Float64}, yrange::Tuple{Float64,F
 	xval = range(xrange[1],xrange[2]; length=n );
 	yval = range(yrange[1],yrange[2]; length=n );
 	for i in 1:n, j in 1:n
-		M[i,j] = mandel( xval[i] + im*yval[j]  )
+		M[i,j] = mandelbrot( xval[i] + im*yval[j]  )
 	end
 	heatmap( M, c=:thermal
 		,aspect_ratio=1.0 
@@ -23,5 +23,5 @@ function plotMandelbrot( xrange::Tuple{Float64,Float64}, yrange::Tuple{Float64,F
 	)
 end
 #
-plotMandelbrot( vrange::Tuple{Float64,Float64}; n=100 ) = plotMandel( vrange, vrange; n )
+plotMandelbrot( vrange::Tuple{Float64,Float64}; n=100 ) = plotMandelbrot( vrange, vrange; n )
 
