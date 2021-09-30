@@ -15,6 +15,12 @@ Please drop me a [note](mailto:jybantang@up.edu.ph) for any possible copyright p
 
 Check it [here](SYLLABUS.md).
 
+# Topics
+The sequence of topics will generally follow the MAIN book reference following each chapter. Discussions will be live synchronous activity every Thursdays to discuss the chapter and computational physics topics. I expect everyone to use the Tuesday schedule in finishing the allocated homework sessions posted in the Google Classroom. This list may change as determined by the instructor. Each number will generally be allocated for the week number of the semester.
+
+## [Session 0: Installation and exploration of the Julia language](00-Intro/README.md)
+## [Session 1: HPC and the Julia Framework](01-HPC/README.md)
+
 ### Submission modes
 Two possible modes of submission is possible.
 In both cases, submission must be done through the Google Classroom.
