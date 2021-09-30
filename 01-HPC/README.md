@@ -20,3 +20,7 @@ The `@code_*` documentation starts [here](https://docs.julialang.org/en/v1/stdli
 
 The `@time` macro can be used as a rudimentary measure of performance.
 The documentation is found [here](https://docs.julialang.org/en/v1/manual/performance-tips/#Measure-performance-with-[@time](@ref)-and-pay-attention-to-memory-allocation).
+
+# Slides used
+
+We used [this slide set during the demo discussion](Session-1.slides.html).
