@@ -51,5 +51,5 @@ Students are expected to submit the following requirements with their correspond
 
 
 
-#### notes
+## Notes
 <a name="gpu-note">[1]</a> The computer must have at least more than two cores. Having GPU cores is desirable but not required. The Internet access is necessary for downloading and installing related apps and codes Julia and GitHub.
