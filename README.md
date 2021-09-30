@@ -28,7 +28,7 @@ The sequence of topics will generally follow the MAIN book reference following e
 
 **OBJECTIVE**: Confirm Julia framework and Base speed
 
-### Submission modes
+# Submission modes
 Two possible modes of submission is possible.
 In both cases, submission must be done through the Google Classroom.
 All `[filename]` must have the following pattern: `Session[n]-[Surname-GivenName]-[Exercise/File-short-title]` with the appropriate extension name.
