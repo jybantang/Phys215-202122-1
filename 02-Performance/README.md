@@ -1,5 +1,5 @@
-# Session 1: HPC and the Julia Framework
-[Previous](00-Intro/) | [Main](../) | [Next](02-Performance/)
+# Session 2: Measuring code performance
+[Previous](01-HPC/) | [Main](../) | Next
 
 # **OBJECTIVE**: Confirm Julia framework and Base speed
 - [ ] KR1: Use `@code_*` to examine a simple function. The `*` is replaceable by `native`, `typed`, `warntype`, and others. Discover them.

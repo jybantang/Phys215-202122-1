@@ -1,5 +1,5 @@
 # Session 0: Installation and exploration of the Julia language
-[Main](../README.md) | [Next](../01-HPC/README.md)
+[Main](../) | [Next](../01-HPC/)
 
 ## OBJECTIVE: Successfully Explore Julia
 - [ ] **KR1:** Julia can be run using the terminal, the Julia REPL appears
