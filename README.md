@@ -28,6 +28,11 @@ The sequence of topics will generally follow the MAIN book reference following e
 
 **OBJECTIVE**: Confirm Julia framework and Base speed
 
+## Session 2
+[**Computing performance** (to follow)](./README)
+
+**OBJECTIVE**: Submit a performance analysis of a self-implemented physics textbook function using Julia benchmarking tools.
+
 # Submission modes
 Two possible modes of submission is possible.
 In both cases, submission must be done through the Google Classroom.
