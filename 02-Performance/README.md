@@ -16,4 +16,4 @@ Special functions may be accessed the [module `SpecialFunctions`](https://specia
 A more complete list of the special functions is found in [a Wikipedia entry](https://en.wikipedia.org/wiki/List_of_mathematical_functions) as well as in the book [Arfken-Weber-Harris, Mathematical Methods for Physicists](https://www.sciencedirect.com/book/9780123846549/mathematical-methods-for-physicists).
 
 # Slides used
-We used [this slide set during the demo discussion](../README.md) [to follow].
+We used [this slide set during the demo discussion](Session-2-Performance.slides.html).
