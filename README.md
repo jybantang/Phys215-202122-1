@@ -29,7 +29,7 @@ The sequence of topics will generally follow the MAIN book reference following e
 **OBJECTIVE**: Confirm Julia framework and Base speed
 
 ## Session 2
-[**Computing performance** (to follow)](./README)
+[**Computing performance** (to follow)](./README.md)
 
 **OBJECTIVE**: Submit a performance analysis of a self-implemented physics textbook function using Julia benchmarking tools.
 
