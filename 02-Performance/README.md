@@ -1,0 +1,19 @@
+# Session 2: Measuring code performance
+[Previous](01-HPC/README.md) | [Main](../README.md) | Next
+
+# **OBJECTIVE**: Submit a performance analysis of a self-implemented physics textbook function using Julia benchmarking tools.
+- [ ] **KR1:** Implemented (customized) at least one mathematical physics function, or constant (prefer those that involve a sum or a loop). Discuss its importance in Physics. See Resources below.
+- [ ] **KR2:** Compare the performance (accuracy) of the implemented function in comparison with the existing special functions within Julia.
+- [ ] **KR3:** Successful loading of the `BenchmarkTools` module. May need to add it first via the `Pkg` or REPL package mode.
+- [ ] **KR4:** Itemized differences between `@time`, `@btime`, `@benchmark` and other `@time`-like macros. Nice if the situations when they are best applied are mentioned.
+- [ ] **KR5:** Identified demonstrated useful features within the `Profiler` module of Julia. Features must be explained why useful for your case.
+- [ ] **KR6:** A discussion of the performance of the implemented function above.
+
+# Resources
+The basics of `BenchmarkTools` module package is found [here](https://juliaci.github.io/BenchmarkTools.jl/dev/manual/#Benchmarking-basics).
+
+Special functions may be accessed the [module `SpecialFunctions`](https://specialfunctions.juliamath.org/stable/functions_overview/).
+A more complete list of the special functions is found in [a Wikipedia entry](https://en.wikipedia.org/wiki/List_of_mathematical_functions) as well as in the Arfken book.
+
+# Slides used
+We used [this slide set during the demo discussion](../README.md) [to follow].
