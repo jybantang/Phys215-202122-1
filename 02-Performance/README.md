@@ -1,5 +1,5 @@
 # Session 2: Measuring code performance
-[Previous](01-HPC/README.md) | [Main](../README.md) | Next
+[Previous](../01-HPC/README.md) | [Main](../README.md) | Next
 
 # **OBJECTIVE**: Submit a performance analysis of a self-implemented physics textbook function or constant using Julia benchmarking tools.
 - [ ] **KR1:** Implemented (customized) at least one math/physics textbook function, or constant (prefer those that involve a sum or a loop) in Julia. Discuss its importance in Physics. See Resources below.
