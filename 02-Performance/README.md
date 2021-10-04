@@ -13,7 +13,7 @@
 The basics of `BenchmarkTools` module package is found [here](https://juliaci.github.io/BenchmarkTools.jl/dev/manual/#Benchmarking-basics).
 
 Special functions may be accessed the [module `SpecialFunctions`](https://specialfunctions.juliamath.org/stable/functions_overview/).
-A more complete list of the special functions is found in [a Wikipedia entry](https://en.wikipedia.org/wiki/List_of_mathematical_functions) as well as in the Arfken book.
+A more complete list of the special functions is found in [a Wikipedia entry](https://en.wikipedia.org/wiki/List_of_mathematical_functions) as well as in the book [Arfken-Weber-Harris, Mathematical Methods for Physicists](https://www.sciencedirect.com/book/9780123846549/mathematical-methods-for-physicists).
 
 # Slides used
 We used [this slide set during the demo discussion](../README.md) [to follow].
