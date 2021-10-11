@@ -34,9 +34,9 @@ The sequence of topics will generally follow the MAIN book reference following e
 **OBJECTIVE**: Submit a performance analysis of a self-implemented physics textbook function using Julia benchmarking tools.
 
 ## Session 3
-[**Computing performance**](03-Types/README.md)
+[**Type and type-related performance**](03-Types/README.md)
 
-**OBJECTIVE**: Submit a performance analysis of a self-implemented physics textbook function using Julia benchmarking tools.
+**OBJECTIVE**: Demonstrate the dynamic programming features of Julia (type dynamism)
 
 # Submission modes
 Two possible modes of submission is possible.
