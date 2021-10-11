@@ -33,6 +33,11 @@ The sequence of topics will generally follow the MAIN book reference following e
 
 **OBJECTIVE**: Submit a performance analysis of a self-implemented physics textbook function using Julia benchmarking tools.
 
+## Session 3
+[**Computing performance**](03-Types/README.md)
+
+**OBJECTIVE**: Submit a performance analysis of a self-implemented physics textbook function using Julia benchmarking tools.
+
 # Submission modes
 Two possible modes of submission is possible.
 In both cases, submission must be done through the Google Classroom.
@@ -41,6 +46,6 @@ All `[filename]` must have the following pattern: `Session[n]-[Surname-GivenName
    Other related files must be submitted accordingly changing the portion `[Exercise/File-short-title]`.
 2. **Option 2 -- GitHub link**: Comment under "Private Comments" the link of the `.ipynb` file in your GitHub repository.
    The repository or at least the file must be public or at least accessible to the Instructor.
-   Upload a PDF version of the Jupyter notebook of the same filename base ---after having run all necessary commands--- together with the same functions files stated in Option 1.
+   Upload a PDF version of the Jupyter notebook of the same filename base ---after having run all necessary commands--- together with the same functions files stated in Option 1. **If PDF export does not work** you may opt to submit an HTML-formatted output instead.
    
 Conversion of the notebook to different formats can be achieved in the web-interface via the menu `File / Download as / [Choose PDF via ...]`.
