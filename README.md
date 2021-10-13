@@ -38,6 +38,11 @@ The sequence of topics will generally follow the MAIN book reference following e
 
 **OBJECTIVE**: Demonstrate the dynamic programming features of Julia (type dynamism)
 
+## Mini-projects
+[**mProject : Mini-project ideas**](09-mProject/README.md)
+
+**OBJECTIVE:** Identify critical principles of simulation and modeling in at a project involving physical system modeling or simulation.
+
 # Submission modes
 Two possible modes of submission is possible.
 In both cases, submission must be done through the Google Classroom.
