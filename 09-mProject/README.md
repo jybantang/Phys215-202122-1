@@ -7,6 +7,8 @@ The simulation can be taken from different dynamical systems well-known in Physi
  - [Cellular automata](./Cellular-Automata/README.md)
  - [Game theory](./Game-Theory/README.md)
 
+You may suggest other topics / systems not included in this listing.
+
 *Special condition*: Submitted as individual or up to trio
 
 Key results
