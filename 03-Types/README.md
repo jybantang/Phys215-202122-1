@@ -1,5 +1,5 @@
 # Session 3: Types, type inference and stability
-[Previous](../02-Performance/README.md) | [Main](../README.md) | Next
+[Previous](../02-Performance/README.md) | [Main](../README.md) | [Next](../04-Fast-Calls/README.md)
 
 # **OBJECTIVE**: Demonstrate the dynamic programming features of Julia
  - [ ] **KR1:** Shown or demonstrated the hierarchy of Julia's type hierarchy using the command `subtypes()`. 
