@@ -1,5 +1,5 @@
 # Session 4: Fast function calls
-[Previous](../03-Types/README.md) | [Main](../README.md) | Next
+[Previous](../03-Types/) | [Main](../) | Next
 
 # **OBJECTIVE**: Compare benchmark times of different implementation of functions that can be expressed as a recursion relation.
  - [ ] **KR1:** Benchmarked at least two(2) different implementation of the same function or process (e.g. raising each element of an array to some power `p`, random array may be used) that utilizes some parameter that can be considered a constant or declared globally.
