@@ -38,6 +38,11 @@ The sequence of topics will generally follow the MAIN book reference following e
 
 **OBJECTIVE**: Demonstrate the dynamic programming features of Julia (type dynamism)
 
+## Session 4
+[**Type and type-related performance**](04-Fast-Calls/README.md)
+
+**OBJECTIVE**: Compare benchmark times of different implementation of functions that can be expressed as a recursion relation.
+
 ## Mini-projects
 [**mProject : Mini-project ideas**](09-mProject/README.md)
 
